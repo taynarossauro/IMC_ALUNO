@@ -30,10 +30,4 @@ Características
 ## 📌 Versão
 Versão 1.0
 
-Autor
-
-Taynara Raquel
-
-
-
-Espero que isso ajude!
+Autor Taynara Raquel
